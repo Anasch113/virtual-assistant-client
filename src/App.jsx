@@ -4,7 +4,7 @@ import axios from "axios";
 import send from "./assets/send.svg";
 import user from "./assets/user.png";
 import bot from "./assets/assistant.png";
-import loadingIcon from "./assets/animation.webm";
+import loadingIcon from "./assets/loader.svg";
 
 function App() {
     const [input, setInput] = useState("");
